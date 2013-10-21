@@ -1,0 +1,16 @@
+<body>
+  <nav>
+    <h1>Garage Sale</h1>
+  </nav>
+  <h3>Enjoy our items! We only accept JCC (Jeff Cohen Currency)</h3>
+      <div id='items'>
+        <h2>Items</h2>
+        <ul>
+          <% @items.each do |item| %>
+              <a href="/garagesale/<%= item %>"><li><%= item.capitalize  %></li></a>
+          <% end %>
+        </ul>
+      </div>
+      <div class='main'>
+    </div>
+</body>

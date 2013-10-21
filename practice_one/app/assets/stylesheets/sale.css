@@ -1,0 +1,103 @@
+body  {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.main {
+  clear: both;
+}
+
+#items {
+  float: right;
+  margin-right: 2.5%;
+  border-left: solid 3px gray;
+  border-bottom: solid 3px gray;
+  border-right: solid 3px gray;
+
+}
+
+h2 {
+  text-align: center;
+  border-bottom: solid 1px gray;
+}
+
+nav {
+  background-color: rgba(255, 0, 0, 0.75);
+  height: 60px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+h1 {
+  text-align: left;
+  margin-top: 0px;
+  margin-left: 5%;
+  margin-bottom: 0px;
+  padding-top: .5%;
+  font-size: 40px;
+  width: 500px;
+}
+
+li {
+  list-style-type: none;
+  font-size: 30px;
+  color: red;
+}
+
+
+ul {
+  padding-right: 40px;
+}
+
+#car {
+  background: url(http://www.hdwallpapersinn.com/wp-content/uploads/2012/11/bugatti-veyron-main-post-1.jpg) no-repeat;
+}
+
+#car:hover {
+  height: 750px;
+}
+
+#bike {
+  background: url(http://tribkcpq.files.wordpress.com/2013/03/bike.jpeg) no-repeat;
+}
+
+#bike:hover {
+  height: 1000px;
+}
+
+#coat {
+ background: url(http://i.imgur.com/y2wgjLR.jpg?1) no-repeat;
+}
+
+#coat:hover {
+  height: 750px;
+}
+
+#l {
+  font-size: 20px;
+  color: purple;
+}
+
+#scooter {
+ background: url(http://aislinnoc.files.wordpress.com/2011/09/scooter.jpg) no-repeat;
+}
+
+#scooter:hover {
+  height: 750px;
+}
+
+#shoe {
+ background: url(http://5.kicksonfire.net/wp-content/uploads/2008/07/air-jordan-6-carmine-returns-7.jpg) no-repeat;
+}
+
+#shoe:hover {
+  height: 750px;
+}
+
+#nlmb {
+  color: white;
+}
+a {
+  text-decoration: none;
+}
